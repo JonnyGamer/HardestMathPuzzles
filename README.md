@@ -18,3 +18,24 @@ Find the smallest triplet a, b, c where:
 	c is prime
 	a + b + c % 10000 = 0
 ```
+
+# Puzzle 3
+```
+Find all numbers k such that the product of the lengths of the words in the name of k in American English is equal to k.
+k < 10^100
+
+Example: 24 is a solution because
+24 -> twenty four -> 6 * 4 = 24
+```
+
+# Puzzle 4
+```
+Example: The number 2 is a persistency of 4 because:
+23 is prime
+233 is prime
+2333 is prime
+23333 is prime
+233333 is not prime
+
+Find the smallest number with persistency of 12.
+```
