@@ -30,7 +30,7 @@ Example: 24 is a solution because
 
 # Puzzle 4
 ```
-Example: The number 2 has a persistency of 4 because:
+The number 2 has a persistency of 4 because:
 23 is prime
 233 is prime
 2333 is prime
